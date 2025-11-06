@@ -2,5 +2,15 @@
 
 ## `Estudante de desenvolvimento de sistemas` ##
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahl2&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahl2&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isahl2&show_icons=true&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahl2&layout=compact&theme=tokyonight"/>
+</div>
+
+<div>
+  <img align="right" alt="gif" src="https://i.pinimg.com/originals/b0/41/9f/b0419fee24fe490a9388847af2500d69.gif">
+</div>
+
+
+
+
