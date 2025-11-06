@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=A020F0"/>
+</div>
+
+
 # Isabelli
 
 ## `Estudante de desenvolvimento de sistemas` ##
