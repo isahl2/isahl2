@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=B83BF7&width=435&lines=Isabelli)](https://git.io/typing-svg)
 
 
-## `Estudante de desenvolvimento de sistemas` ##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=B83BF7&repeat=false&width=435&lines=Estudante+de+desenvolvimento+de+sistemas)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isahl2&show_icons=true&theme=jolly"/>
