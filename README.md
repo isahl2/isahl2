@@ -3,8 +3,8 @@
 ## `Estudante de desenvolvimento de sistemas` ##
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isahl2&show_icons=true&theme=tokyonight"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahl2&layout=compact&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isahl2&show_icons=true&theme=jolly"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahl2&layout=compact&theme=jolly"/>
 </div>
 
 <div>
