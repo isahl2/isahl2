@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=A020F0"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=B83BF7&width=435&lines=Isabelli)](https://git.io/typing-svg)
 
-# Isabelli
 
 ## `Estudante de desenvolvimento de sistemas` ##
 
