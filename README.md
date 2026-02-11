@@ -23,6 +23,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahl2&layout=compact&theme=jolly"/>
 </div>
 
+
 <div>
   <img align="right" alt="gif" src="https://i.pinimg.com/originals/b0/41/9f/b0419fee24fe490a9388847af2500d69.gif">
 </div>
@@ -33,5 +34,5 @@
 
 
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
