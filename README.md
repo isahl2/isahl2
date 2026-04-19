@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=A020F0"/>
+  <img src="https://i.pinimg.com/originals/48/aa/eb/48aaeb6f1b5616d0687cf64f9055e87c.gif"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=B83BF7&width=435&lines=Isabelli)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 
 
    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hoppscotch/hoppscotch-original.svg"  width="80" heigth="80"  />
+   <img src="https://i.pinimg.com/originals/b7/e3/14/b7e3145c1f2a292a3e7dbbb352f47f23.gif"  width="100" heigth="100"  />
           
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-plain.svg"  width="80" heigth="80"  />
@@ -29,10 +29,6 @@
 </div>
 
 <div>
-  <img width="10%" align="left" alt="gif" src="https://giffiles.alphacoders.com/221/221592.gif">
+  <img align="left" alt="gif" src="https://i.pinimg.com/originals/9e/1b/ae/9e1baeca9aae7badef74b85eb80249b1.gif" width="100" heigth="100">
 </div>
-
-
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
